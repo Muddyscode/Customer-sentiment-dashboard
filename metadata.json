@@ -1,0 +1,5 @@
+{
+  "name": "Customer Sentiment Dashboard",
+  "description": "An AI-powered dashboard to analyze customer reviews. It generates a sentiment trend chart, word clouds for praises and complaints, and an executive summary with actionable insights. Includes an integrated chatbot to ask questions about the analyzed data.",
+  "requestFramePermissions": []
+}
